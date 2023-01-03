@@ -1,1 +1,1 @@
-#CyberProof Threat Hunting Repositry
+# CyberProof Threat Hunting Repositry
